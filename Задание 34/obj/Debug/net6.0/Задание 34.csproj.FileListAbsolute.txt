@@ -1,0 +1,15 @@
+C:\Users\rkore\Desktop\DZ-5\Задание 34\bin\Debug\net6.0\Задание 34.exe
+C:\Users\rkore\Desktop\DZ-5\Задание 34\bin\Debug\net6.0\Задание 34.deps.json
+C:\Users\rkore\Desktop\DZ-5\Задание 34\bin\Debug\net6.0\Задание 34.runtimeconfig.json
+C:\Users\rkore\Desktop\DZ-5\Задание 34\bin\Debug\net6.0\Задание 34.dll
+C:\Users\rkore\Desktop\DZ-5\Задание 34\bin\Debug\net6.0\Задание 34.pdb
+C:\Users\rkore\Desktop\DZ-5\Задание 34\obj\Debug\net6.0\Задание 34.csproj.AssemblyReference.cache
+C:\Users\rkore\Desktop\DZ-5\Задание 34\obj\Debug\net6.0\Задание 34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rkore\Desktop\DZ-5\Задание 34\obj\Debug\net6.0\Задание 34.AssemblyInfoInputs.cache
+C:\Users\rkore\Desktop\DZ-5\Задание 34\obj\Debug\net6.0\Задание 34.AssemblyInfo.cs
+C:\Users\rkore\Desktop\DZ-5\Задание 34\obj\Debug\net6.0\Задание 34.csproj.CoreCompileInputs.cache
+C:\Users\rkore\Desktop\DZ-5\Задание 34\obj\Debug\net6.0\Задание 34.dll
+C:\Users\rkore\Desktop\DZ-5\Задание 34\obj\Debug\net6.0\refint\Задание 34.dll
+C:\Users\rkore\Desktop\DZ-5\Задание 34\obj\Debug\net6.0\Задание 34.pdb
+C:\Users\rkore\Desktop\DZ-5\Задание 34\obj\Debug\net6.0\Задание 34.genruntimeconfig.cache
+C:\Users\rkore\Desktop\DZ-5\Задание 34\obj\Debug\net6.0\ref\Задание 34.dll

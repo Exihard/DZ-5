@@ -1,0 +1,15 @@
+C:\Users\rkore\Desktop\DZ-5\Задание 38\bin\Debug\net6.0\Задание 38.exe
+C:\Users\rkore\Desktop\DZ-5\Задание 38\bin\Debug\net6.0\Задание 38.deps.json
+C:\Users\rkore\Desktop\DZ-5\Задание 38\bin\Debug\net6.0\Задание 38.runtimeconfig.json
+C:\Users\rkore\Desktop\DZ-5\Задание 38\bin\Debug\net6.0\Задание 38.dll
+C:\Users\rkore\Desktop\DZ-5\Задание 38\bin\Debug\net6.0\Задание 38.pdb
+C:\Users\rkore\Desktop\DZ-5\Задание 38\obj\Debug\net6.0\Задание 38.csproj.AssemblyReference.cache
+C:\Users\rkore\Desktop\DZ-5\Задание 38\obj\Debug\net6.0\Задание 38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rkore\Desktop\DZ-5\Задание 38\obj\Debug\net6.0\Задание 38.AssemblyInfoInputs.cache
+C:\Users\rkore\Desktop\DZ-5\Задание 38\obj\Debug\net6.0\Задание 38.AssemblyInfo.cs
+C:\Users\rkore\Desktop\DZ-5\Задание 38\obj\Debug\net6.0\Задание 38.csproj.CoreCompileInputs.cache
+C:\Users\rkore\Desktop\DZ-5\Задание 38\obj\Debug\net6.0\Задание 38.dll
+C:\Users\rkore\Desktop\DZ-5\Задание 38\obj\Debug\net6.0\refint\Задание 38.dll
+C:\Users\rkore\Desktop\DZ-5\Задание 38\obj\Debug\net6.0\Задание 38.pdb
+C:\Users\rkore\Desktop\DZ-5\Задание 38\obj\Debug\net6.0\Задание 38.genruntimeconfig.cache
+C:\Users\rkore\Desktop\DZ-5\Задание 38\obj\Debug\net6.0\ref\Задание 38.dll
